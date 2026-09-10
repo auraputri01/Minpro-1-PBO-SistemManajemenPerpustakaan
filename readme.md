@@ -29,10 +29,15 @@ Setelah pelayanan selesai, pelanggan dapat melakukan pembayaran dengan metode Tu
 
 Contoh Dokumentasi Program
 - Kelola Pelanggan
+
 <img width="698" height="370" alt="image" src="https://github.com/user-attachments/assets/b229cc1b-1439-4f57-bfba-0eb74930953a" />
+
 - Kelola Barber
+
 <img width="496" height="400" alt="image" src="https://github.com/user-attachments/assets/a9e2a7e5-7706-48b6-b956-826d8a111e39" />
+
 - Lihat Daftar Layanan
+
 <img width="582" height="360" alt="image" src="https://github.com/user-attachments/assets/147f370f-4336-436e-89ff-18722a52f930" />
 
 ==============================================================================
