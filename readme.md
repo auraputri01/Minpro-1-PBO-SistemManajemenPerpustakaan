@@ -27,6 +27,16 @@ Setelah pelayanan selesai, pelanggan dapat melakukan pembayaran dengan metode Tu
 
 ==============================================================================
 
+Contoh Dokumentasi Program
+- Kelola Pelanggan
+<img width="698" height="370" alt="image" src="https://github.com/user-attachments/assets/b229cc1b-1439-4f57-bfba-0eb74930953a" />
+- Kelola Barber
+<img width="496" height="400" alt="image" src="https://github.com/user-attachments/assets/a9e2a7e5-7706-48b6-b956-826d8a111e39" />
+- Lihat Daftar Layanan
+<img width="582" height="360" alt="image" src="https://github.com/user-attachments/assets/147f370f-4336-436e-89ff-18722a52f930" />
+
+==============================================================================
+
 Penerapan Nilai Tambah
 
 Ada encapsulation diterapkan dengan membuat atribut pada class menjadi private serta menggunakan getter dan setter untuk mengakses atau mengubah data.
@@ -38,3 +48,4 @@ Status barber otomatis ditentukan berdasarkan jumlah pelanggan aktif. Barber den
 Setiap barber hanya dapat menerima maksimal 5 pelanggan aktif. Jika kapasitas barber sudah penuh, pelanggan harus memilih barber lainnya.
 
 Program juga membuat ID pelayanan dan nomor antrean secara otomatis, sehingga pengguna tidak perlu memasukkannya secara manual.
+
